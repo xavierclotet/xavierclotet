@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on Led tech Credimaret CRM website with Angular 9.
+- 🔭 I’m currently working on Led tech at Credimarket CRM website with Angular 9.
 - 🌱 I’m currently learning svelte with firebase
 - 📫 How to reach me: https://twitter.com/xavi_web
 
