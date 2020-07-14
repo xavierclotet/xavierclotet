@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Led tech Credimaret CRM website with Angular 9.
+- 🌱 I’m currently learning svelte with firebase
+- 📫 How to reach me: twiiter.com/xavi_web
+
+
 <!--
 **xavierclotet/xavierclotet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
