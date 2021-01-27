@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on frontend Tech Lead at Credimarket CRM website with Angular 9.
-- 🌱 I’m currently learning svelte with firebase
+- 🔭 I’m currently working on frontend Tech Lead at Credimarket CRM website with Angular 11+.
+- 🌱 I’m currently learning svelte with firebase, clean code, DDD.
 - 📫 How to reach me: https://twitter.com/xavi_web
 
 
