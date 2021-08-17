@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on frontend Tech Lead at Credimarket CRM website with Angular 11+.
-- 🌱 I’m currently learning other frameworks: React with hooks, sveltekit.
+- 🔭 I’m currently working as a frontend Seniort Lead at FutursHelath Care managemnt app solution with Angular 10+.
+- 🌱 I’m currently learning things like: sveltekit, graphql, nodeJS.
 - 📫 How to reach me: https://twitter.com/xavi_web
 
 
