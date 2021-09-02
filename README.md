@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as a Frontend Senior Lead at FutursHelath Care managemnt app solution with Angular 10+.
-- 🌱 I’m currently learning things like: sveltekit, graphql, nodeJS.
+- 🔭 I’m currently working as a Frontend Senior Lead at Acierto app solution with Angular 12+.
+- 🌱 I’m currently learning things like: sveltekit, graphql, nodeJS, nestJs.
 - 📫 How to reach me: https://twitter.com/xavi_web
 
 
